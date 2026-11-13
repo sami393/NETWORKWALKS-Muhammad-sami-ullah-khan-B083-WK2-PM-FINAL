@@ -32,7 +32,6 @@ This project covers the first two phases of a penetration test: reconnaissance a
 - `report/`: full penetration testing report
 - `screenshots/`: evidence for every task
 - `outputs/`: raw text output of each tool
-- `topology/`: Zenmap topology PDF
 
 ## Troubleshooting
 **Problem:** Zenmap's text was unreadable in Kali's dark theme.
